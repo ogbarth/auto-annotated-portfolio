@@ -54,7 +54,8 @@ sections:
     showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
-    projects: []
+    projects:
+      - content/pages/projects/abir.md
     styles:
       self:
         height: auto
