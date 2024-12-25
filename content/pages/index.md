@@ -17,7 +17,7 @@ sections:
     subtitle: 99barth
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
