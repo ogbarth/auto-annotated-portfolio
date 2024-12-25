@@ -14,7 +14,7 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: WELCOME
-    subtitle: ''
+    subtitle: 99barth
     styles:
       self:
         height: auto
